@@ -1,0 +1,9 @@
+[Unit]
+Description=Boot up Pi camera
+After=multi-user.target
+
+[Service]
+ExecStart=/home/<username>/.rpi-uvc-gadget.sh &
+
+[Install]
+WantedBy=multi-user.target
