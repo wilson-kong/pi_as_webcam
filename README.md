@@ -6,8 +6,8 @@ I made this after following a tutorial but getting the error:
 > "USB device not recognized. The Last USB device you connected to this computer malfunctioned and Windows does not recognize it. Windows Explorer"
 
 ## Table of contents
-1. [TL; DR](#tl;dr)
-2. [Step by step](#step_by_step)
+1. [Step by step](#step_by_step)
+2. [TL; DR](#tl;dr)
 3. [References](#references)
 
 ## Step by Step <a name="step_by_step"></a>
